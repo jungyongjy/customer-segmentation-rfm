@@ -40,4 +40,4 @@ Using the RFM scores, customers were mapped to 10 distinct segments based on the
 * Pandas: Aggregation, cleaning, and RFM calculation.
 * Seaborn/Matplotlib: Data visualisation.
 
-** Created by Wong Jung Yong **
+**Created by Wong Jung Yong**
