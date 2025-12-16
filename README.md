@@ -1,5 +1,7 @@
 # Customer Segmentation & RFM Analysis
 
+**Project Status:** Completed (Dec 2025)
+
 ## Project Overview
 In the competitive e-commerce landscape, treating all customers the same leads to wasted marketing budget. This project analyses over 1 million transactions from a UK-based online retailer to identify distinct customer segments using RFM (Recency, Frequency, Monetary) Analysis.
 
