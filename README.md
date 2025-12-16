@@ -28,7 +28,7 @@ Using the RFM scores, customers were mapped to 10 distinct segments based on the
 * Retention Risk: At Risk (12.6%) - Frequent shoppers who haven't purchased recently.
 
 ## Visualisation
-![Customer Segments Distribution](images/segmentation_chart.png)
+![Customer Segments Distribution](Images/segmentation_chart.png)
 
 ## Business Recommendations
 1. Wake Up the "Hibernating" (26.1%): Since this is the largest segment, a low-cost re-engagement campaign (email/SMS) is critical to reduce churn.
@@ -39,3 +39,5 @@ Using the RFM scores, customers were mapped to 10 distinct segments based on the
 * Python: Data manipulation and logic.
 * Pandas: Aggregation, cleaning, and RFM calculation.
 * Seaborn/Matplotlib: Data visualisation.
+
+* Created by Wong Jung Yong *
